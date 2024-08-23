@@ -17,3 +17,4 @@
 
 ## Executando a APP (.py)
 #### - streamlit run crewai-stocks.py
+#### - no navegador usar o "localhost:8080" ou "8501"
