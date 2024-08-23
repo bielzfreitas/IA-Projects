@@ -14,3 +14,6 @@
 #### - pip install notebook
 #### - pip install jupyter
 #### - pip install streamlit
+
+## Executando a APP (.py)
+#### - streamlit run crewai-stocks.py
