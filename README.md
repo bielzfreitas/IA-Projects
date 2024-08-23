@@ -5,3 +5,12 @@
 #### - Primeiro "agente": análise do preço do histórico da ação (utilizando o Yahoo Finance)
 #### - Segundo "agente": análise de notícias da empresa
 #### - Terceiro "agente": avaliação da ação
+
+## Referente ao arquivo streamliststocks.py
+#### - Convertendo o notebook para uma aplicação python
+#### - Utilizar no terminal jupyter nbconvert --to script crewai-stocks.ipynb
+
+## Instalar no terminal
+#### - pip install notebook
+#### - pip install jupyter
+#### - pip install streamlit
